@@ -6,7 +6,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="sql" width="40" height="40"/>
 > ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrikR)](https://github.com/anuraghazra/github-readme-stats)
-
 [![codewars](https://www.codewars.com/users/IrikR/badges/small)](https://www.codewars.com/users/username)
