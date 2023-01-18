@@ -12,8 +12,8 @@
 
 ### Автоматизация технологических процессов
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
-<img src="src/siemens_logo_icon_168830.svg" title="siemens"  width="60" height="40"/>&nbsp;
-<img src="src/PS_logo_blue_2c_rus.webp" title="prosoft" type="image/webp" width="60" height="40"/>&nbsp;
+<img src="src/siemens_logo_icon_168830.svg" title="siemens"  width="80" height="40"/>&nbsp;
+<img src="src/PS_logo_blue_2c_rus.webp" title="prosoft" type="image/webp" width="80" height="40"/>&nbsp;
 
 
 > ---
