@@ -1,4 +1,4 @@
-![logo](src/facebook_cover_photo_2.png)
+![logo](./src/facebook_cover_photo_2.png)
 
 ### Языки и инструменты
 
@@ -14,10 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="./src/Codesys_Logo.svg" title="angular" width="40" height="40"/>&nbsp;
 
-[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg"/>)
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrikR&theme=solarized_dark)
 
-[//]: # (![logo]&#40;src/Codesys_Logo.svg&#41;)
