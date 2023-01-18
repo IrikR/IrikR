@@ -1,16 +1,23 @@
 ![logo](src/facebook_cover_photo_2.png)
 
-### Languages and tools
+### Языки и инструменты
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="rust" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="rust" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
 
+### Автоматизация технологических процессов
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
+<img src="./src/Codesys_Logo.svg" title="angular" width="40" height="40"/>&nbsp;
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg"/>)
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrikR&theme=solarized_dark)
+
+[//]: # (![logo]&#40;src/Codesys_Logo.svg&#41;)
