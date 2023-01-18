@@ -19,6 +19,13 @@
 <img src="src/iface.webp" title="iface" type="image/webp" width="90" height="40"/>&nbsp;
 <img src="src/ekra.webp" title="ekra" type="image/webp" width="90" height="40"/>&nbsp;
 <img src="src/cisco.webp" title="cisco" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/generalelectric.webp" title="ge" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/hirschman.webp" title="hirschman" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/icpdas.webp" title="icpdas" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/mikrotik.webp" title="mikrotik" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/moxa.webp" title="moxa" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/phoenixcontact.webp" title="phoenixcontact" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/ruggedcom.webp" title="ruggedcom" type="image/webp" width="90" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 
 ### Проводил пусконаладку АСУ ТП на таких объектах как
