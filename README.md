@@ -15,7 +15,7 @@
 [//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp)
 
 
-![angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg)
+![angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg, "width"=40)
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
 
