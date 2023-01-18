@@ -12,7 +12,7 @@
 
 ### Автоматизация технологических процессов
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
-<img src="./src/Codesys_Logo.svg" title="angular" width="40" height="40"/>&nbsp;
+<img src="https://translated.turbopages.org/proxy_u/en-ru.ru.2d9f0650-63c8450e-77170e2e-74722d776562/www.codesys.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/Download/Broschueren/IB_PDE_online_en.pdf&t=1410530061&hash=8b0e5e818d244dd0889569be506bd5baa2f367ee" width="40" height="40"/>&nbsp;
 
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
