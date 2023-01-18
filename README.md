@@ -7,11 +7,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="mysql" width="40" height="40"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 
 
-[//]: # (![angular]&#40;https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg&#41;)
+![angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg, width=40)
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
 
