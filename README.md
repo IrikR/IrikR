@@ -11,8 +11,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 
 
-![angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg, width=40)
+![angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg)
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrikR&theme=solarized_dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrikR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
