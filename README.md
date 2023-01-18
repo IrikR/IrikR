@@ -15,6 +15,10 @@
 <img src="src/siemens_logo_icon_168830.svg" title="siemens"  width="80" height="40"/>&nbsp;
 <img src="src/PS_logo_blue_2c_rus.webp" title="prosoft" type="image/webp" width="80" height="40"/>&nbsp;
 
+### Проводил пусконаладку АСУ ТП на таких объектах как
+<img src="src/sibur_logo.svg" title="sibur" width="80" height="40"/>&nbsp;
+<img src="src/FSK_logo.svg" title="fsk" width="80" height="40"/>&nbsp;
+<img src="src/LUK_OIL_Logo_kyr.svg.png" title="lukoil" width="80" height="40"/>&nbsp;
 
 > ---
 ![codewars](https://www.codewars.com/users/IrikR/badges/large)
