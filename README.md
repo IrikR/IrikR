@@ -11,15 +11,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
 
 ### Автоматизация технологических процессов
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
-<img src="src/siemens_logo_icon_168830.svg" title="siemens"  width="80" height="40"/>&nbsp;
-<img src="src/PS_logo_blue_2c_rus.webp" title="prosoft" type="image/webp" width="80" height="40"/>&nbsp;
-<img src="src/wago.webp" title="prosoft" type="image/webp" width="80" height="40"/>&nbsp;
-<img src="src/mikronika.webp" title="mikronika" type="image/webp" width="80" height="40"/>&nbsp;
-<img src="src/iface.webp" title="iface" type="image/webp" width="80" height="40"/>&nbsp;
-<img src="src/ekra.webp" title="ekra" type="image/webp" width="80" height="40"/>&nbsp;
-<img src="src/cisco.webp" title="cisco" type="image/webp" width="80" height="40"/>&nbsp;
 
+<img src="src/siemens_logo_icon_168830.svg" title="siemens"  width="90" height="40"/>&nbsp;
+<img src="src/PS_logo_blue_2c_rus.webp" title="prosoft" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/wago.webp" title="prosoft" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/mikronika.webp" title="mikronika" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/iface.webp" title="iface" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/ekra.webp" title="ekra" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="src/cisco.webp" title="cisco" type="image/webp" width="90" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 
 ### Проводил пусконаладку АСУ ТП на таких объектах как
 <img src="src/sibur_logo.svg" title="sibur" width="80" height="40"/>&nbsp;
